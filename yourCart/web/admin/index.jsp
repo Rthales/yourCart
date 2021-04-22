@@ -58,6 +58,27 @@
                     </div>
                 </div>
             </div>
+                        <div class="col-sm-4">
+                <div class="product-image-wrapper">
+                    <div class="single-products">
+                        <div class="productinfo text-center">
+                            <i class="fa fa-user-circle fa-5x" aria-hidden="true" ></i>
+                            <h2>API details</h2>
+
+                            
+                        </div>
+                        <div class="product-overlay">
+                            <div class="overlay-content">
+                                <h2>Here you can view hashs passwords of users </h2>
+                                <p>user1 : 6b522d87cb0041ffd13407ebc2de03ab</p>
+                                <p>user2 : 6b522d87cb0041ffd13407ebc2de03ac</p>
+                                <p>user3 : 6b522d87cb0041ffd13407ebc2de03ad</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
             <div class="col-sm-4">
                 <div class="product-image-wrapper">
                     <div class="single-products">
@@ -92,7 +113,7 @@
                             <div class="overlay-content">
                                 <h2>Here you can view History </h2>
                                 <a href="AdminHistoryServlet" class="btn btn-default my_btn"><i class="fa fa-file-text" ></i> History</a>
-
+                        
                             </div>
                         </div>
 
