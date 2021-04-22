@@ -15,8 +15,8 @@
                 <div class="login-form"><!--login form-->
                     <h2>Login to your account</h2>
                     <form action="Signin" id="SigninForm" method="post">
-                        <input type="text" placeholder="username" id="SigninName" name="SigninName" required/>
-                        <input type="password" placeholder="password" id="SigninPassword" name="SigninPassword" required/>
+                        <input type="text" placeholder="username" id="SigninName" name="SigninName" required/> <!-- admin -->
+                        <input type="password" placeholder="password" id="SigninPassword" name="SigninPassword" required/> <!-- admin123 -->
                         <button type="submit" class="btn btn-default">Login</button>
                     </form>
                 </div><!--/login form-->
