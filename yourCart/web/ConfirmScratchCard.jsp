@@ -16,6 +16,7 @@
             <div class="col-xs-9">
                 <center><h2 class="title text-center">Please Write the code you got on mail here </h2>
             <p>your cash $${LoginUser.cash}</p>
+            <p>This contract number is personnal : AAF4C61DDCC5E8A2DABEDE0F3B482CD9AEA9434D // keep it safe and be carreful, never give it !!! 
                <Input type="Text" class="input-field" name="CardStr" placeholder="write card code" required="true">
                 
                 <BR>
