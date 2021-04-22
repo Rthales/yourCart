@@ -51,6 +51,7 @@
                             <td class="cart_price">
                                 <p>${product.quantity}</p>
                             </td>
+                            <!-- To test and have free product, use the promo code addgh_EnJoyTheFreeProduct!!_b5aaf32 
                             <td class="cart_delete">
                                 <a class="cart_quantity_delete" href="DeleteProduct?id=${product.productId}"><i class="fa fa-times"></i></a>
                                 <a class="cart_quantity_delete" href="AdminProduct?id=${product.productId}"><i class="fa fa-pencil"></i></a>
