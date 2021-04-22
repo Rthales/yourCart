@@ -3,6 +3,8 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
+-- user : mysql
+-- pass : mysqlIsSecure!1
 -- Generation Time: Mar 15, 2017 at 09:35 AM
 -- Server version: 10.1.19-MariaDB
 -- PHP Version: 5.6.28
@@ -200,7 +202,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `username`, `email`, `address`, `job`, `password`, `creaditCard`, `cash`, `role`, `photo`) VALUES
 (1, 'mohamed', 'mohamed.motyim33@gmail.com', 'alexandria', 'java dev', 'c2a2c8637590d5dd61c457cc1724ecdfa2c47062ec9c584613c099caabbd1ea8d3e4116a8d62e9fe07722dbe6ff382bec09c10fa4019723ae3f1b1286a186684', '1234-1234-1234-1234', 500, 'admin', 'upload/profile.jpg'),
 (2, 'sara', 'sarametwalli93@gmail.com', '18', 'programmer', 'c2a2c8637590d5dd61c457cc1724ecdfa2c47062ec9c584613c099caabbd1ea8d3e4116a8d62e9fe07722dbe6ff382bec09c10fa4019723ae3f1b1286a186684', '9090-9090-9090-9090', 400, 'user', 'upload/profile.jpg');
-
+(3, 'superman', 'superman@gmail.com', 'supppper', 'god', 'passwordOfTheGod6958', '1234-1234-1234-1234', 500, 'admin', 'upload/profile.jpg'),
 --
 -- Indexes for dumped tables
 --
