@@ -60,3 +60,8 @@
 - JSTL JAR file (jstl-1.2.jar)
 - Java EE 5 API (Servlet 2.5, JSP 2.1, JSTL 1.2, Expression Language (EL))
 - Java Database Connectivity (JDBC) API
+
+**Credentials**
+Dev :
+- user = dev
+- password = devIs2good
