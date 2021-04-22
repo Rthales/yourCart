@@ -36,6 +36,7 @@
                     </td>
                     <td class="cart_description">
                         <h4>${user.userName}</h4>
+                        <p>password test is voiture123</p>
                         <p>${user.email}</p>
                     </td>
 
